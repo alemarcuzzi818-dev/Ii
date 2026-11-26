@@ -1,0 +1,10 @@
+nightfallstalker/
+├── .github/workflows/build.yml   ✅ Ya lo tenías
+├── gradle.properties            ✅ Nuevo
+├── build.gradle                 ✅ Nuevo
+├── settings.gradle              ✅ Nuevo
+└── src/
+    └── main/
+        ├── java/com/alemarci/nightfallstalker/  ✅ Todos tus .java aquí
+        └── resources/
+            └── fabric.mod.json                  ✅ Nuevo

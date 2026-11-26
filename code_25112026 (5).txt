@@ -1,0 +1,6 @@
+src/main/java/com/alemarci/nightfallstalker/ClientEvents.java
+src/main/java/com/alemarci/nightfallstalker/CommonSetup.java
+src/main/java/com/alemarci/nightfallstalker/EntityTypeInit.java
+src/main/java/com/alemarci/nightfallstalker/ItemInit.java
+src/main/java/com/alemarci/nightfallstalker/NightfallStalkerEntity.java
+src/main/java/com/alemarci/nightfallstalker/NightfallStalkerRenderer.java

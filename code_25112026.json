@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "nightfallstalker",
+  "version": "1.0.0",
+  "name": "Nightfall Stalker",
+  "description": "Mod del Nightfall Stalker",
+  "authors": ["alemarci"],
+  "icon": "assets/nightfallstalker/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.alemarci.nightfallstalker.NightfallStalkerMod"
+    ],
+    "client": [
+      "com.alemarci.nightfallstalker.ClientEvents"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.16.5",
+    "java": ">=8",
+    "fabric-api": "*"
+  }
+}
